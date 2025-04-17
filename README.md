@@ -1,29 +1,7 @@
-# README #
+# Bot de Confronto Rabbiit x PontoMais #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Este repositório contém o código de um bot de automação para verificar e corrigir inconsistências nas marcações de ponto, integrado com a API do PontoMais e a API do Rabbiit. O bot verifica os registros de ponto dos colaboradores e compara com os dados do sistema Rabbiit, gerando alertas quando houver divergências.
 
-### What is this repository for? ###
+## Instalação ##
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Após git clone, deve ser instalado o pipenv para criar o ambiente virtual. Em seguida, o arquivo '.env' deve ser criado na pasta do projeto para acesso de URLs, tokens e demais credenciais (email, password).
