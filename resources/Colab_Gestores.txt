@@ -1,0 +1,7 @@
+# Planilha Colab_Gestores deve ficar aqui, com as colunas:
+#  Nome do Colaborador;
+#  Email do Colaborador;
+#  Gestor do Colaborador;
+#  Email do Colaborador;
+#  Coordenador do Colaborador;
+#  Email do Coordenador.
